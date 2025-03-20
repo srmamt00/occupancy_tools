@@ -361,6 +361,5 @@ bin/
 slam_output/
 
 #point_labeler
-bin
 build
 settings.cfg
