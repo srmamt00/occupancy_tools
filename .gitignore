@@ -290,6 +290,7 @@ env.bak/
 venv.bak/
 pcd_bin/
 point_labeler/
+slam/
 
 # Spyder project settings
 .spyderproject
@@ -356,3 +357,10 @@ images
 scripts/test.sh
 
 #large files
+bin/
+slam_output/
+
+#point_labeler
+bin
+build
+settings.cfg
