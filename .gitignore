@@ -291,6 +291,7 @@ venv.bak/
 pcd_bin/
 point_labeler/
 slam/
+voxelizer/
 
 # Spyder project settings
 .spyderproject

@@ -23,13 +23,13 @@ def main():
         "--pcd_path",
         help=".pcd file path.",
         type=str,
-        default="/home/sriz/Documents/projects/truckscenes-devkit/Generated_files/Scene_1_pcd_files"
+        default="/home/sriz/Documents/projects/truckscenes-devkit/Generated_files/Scene_2_pcd_files"
     )
     parser.add_argument(
         "--bin_path",
         help=".bin file path.",
         type=str,
-        default="/home/sriz/Documents/projects/pcd2bin/scene_0_bin_files"
+        default="/home/sriz/Documents/projects/bin_files/scene_2_bin_files"
     )
     parser.add_argument(
         "--file_name",
